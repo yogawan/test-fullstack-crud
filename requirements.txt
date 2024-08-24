@@ -1,0 +1,9 @@
+npm install express sqlite3 body-parser cors
+node server.js
+
+// new tab
+
+cd app
+npm install
+npm install axios react-router-dom
+npm run dev
